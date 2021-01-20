@@ -1,10 +1,5 @@
 import json
 
-def login(name, password):
-    pass
-def register(name, password):
-    pass
-
 def begin():
     global option
     print("Welcome!")
